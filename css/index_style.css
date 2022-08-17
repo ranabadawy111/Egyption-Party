@@ -1,0 +1,142 @@
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+#home
+{
+    background-image: url("../images/events-heavenly-header.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.layer{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(214, 46, 51, 0.6);
+}
+.caption h2{
+    font-size: 60px;
+}
+
+#nav{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    z-index: 999999;
+    
+}
+#nav .open i, h2
+{
+    cursor: pointer;
+}
+.navOptions{
+    background-color: #414658;
+    width: 250px;
+}
+.navOptions i
+{
+    margin-left: 180px;
+    color: #fff;
+    transition: 0.5s;
+}
+.navOptions a{
+    font-size: 25px;
+    transition: 0.5s;
+    color: #fff;
+}
+.navOptions a:hover , i:hover
+{
+    color: #D62E33;
+    cursor: pointer;
+}
+#home 
+{
+    margin: 0px 0px 100px 0px;
+}
+#duration
+{
+    margin: 100px 0px;
+}
+#details
+{
+    cursor: pointer;
+}
+#details h3 
+{
+    background-color: rgba(214, 46, 51, 0.6);
+    color: white;
+    font-size: 24px;
+}
+#details .detail
+{
+    padding: 10px;
+    background-color: #ccc;
+}
+#duration
+{
+    background-image: url("../images/invitation-2508607__340.jpg");
+    background-repeat: no-repeat;
+    height: 350px;
+}
+.layerDuration
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(214, 46, 51, 0.6);
+}
+
+.time
+{
+    border: 1px solid #ffffff;
+}
+
+#contact h2
+{
+    font-size: 35px;
+    color: #444444;
+}
+#contact p 
+{
+    color: #777;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center
+}
+#contact strong {
+    font-weight: 700;
+    color: #444444;
+}
+#contact .red 
+{
+    color: #D62E33;
+}
+.icon-social i
+{
+    color: #777;
+    font-size: 18px;
+    margin-right: 10px;
+    border: 1px solid #999;
+    width: 40px;
+    height: 40px;
+    line-height: 42px;
+    cursor: pointer;
+    text-align: center
+}
+.icon-social i:hover
+{
+    background-color: #D62E33;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
